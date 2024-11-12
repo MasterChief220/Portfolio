@@ -68,7 +68,7 @@ const Hero = () => {
         I’m a cybersecurity engineer specializing in configuring secure
         digital experiences. Currently, I’m focused on deploying secure solutions at{' '}
         <a href="https://pkcert.gov.pk/" target="_blank" rel="noreferrer">
-          pkcertCERT
+          PKCERT
         </a>
         .
       </p>
