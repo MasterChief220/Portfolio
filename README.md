@@ -1,5 +1,4 @@
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Taken from [brittanychiang.com](https://brittanychiang.com). 
 
 ## 🛠 Installation & Set Up
 
