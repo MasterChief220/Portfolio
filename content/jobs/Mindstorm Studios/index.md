@@ -1,13 +1,12 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2023-06-14'
+title: 'Game Developer Apprenticeship'
+company: 'Mindstorm Studios'
+location: 'Remote'
+range: 'June 2023 - August 2023'
+url: 'https://mindstormstudios.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Participated in the Rookie Game Jam 2023 as a Game Programmer, where I utilized Unity to contribute to the development of "AI Assault."
+- Gained hands-on experience in game programming and design, tackling technical challenges and pushing the limits of what can be achieved in game development.
+- Enhanced my technical expertise by working on a dynamic project that provided valuable insights into game development. 

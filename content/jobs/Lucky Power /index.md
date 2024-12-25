@@ -1,11 +1,17 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2024-07-01'
+title: 'Operations Intern'
+company: 'Lucky Power'
+location: 'Karachi, Pakistan'
+range: 'July 2024- August 2024'
+url: 'https://luckyelectricpower.com/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Completed a 6-week internship at Lucky Power Plant under Harbin Electric’s O&M contract, rotating through key areas such as coal handling, water treatment, flue gas desulfurization, and the boiler-turbine-generator unit.  
+- Gained hands-on experience working with an ultra-supercritical boiler, operating at supercritical pressure and temperature for high efficiency.  
+- Learned the coal handling process, including the operation of a stacker-reclaimer.  
+- Acquired knowledge in water treatment, including seawater intake and performing chemical tests like oxygen bomb testing and proximate analysis.  
+- Observed flue gas desulfurization, where flue gas is neutralized using limestone slurry, producing gypsum as a byproduct.  
+- Studied the boiler start-up procedure, involving the use of an oil pump to initiate combustion before feeding in coal.  
+- Gained insight into the operation of IDF and FDF fans for maintaining proper boiler functionality.  
+- Developed a comprehensive understanding of operations in a 660 MW power plant.

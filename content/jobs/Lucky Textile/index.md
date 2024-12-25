@@ -1,5 +1,5 @@
 ---
-date: '2023-12-21'
+date: '2023-02-21'
 title: 'Engineering Intern'
 company: 'Lucky Textile'
 location: 'Karachi, Pakistan'
