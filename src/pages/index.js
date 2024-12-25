@@ -15,7 +15,6 @@ const IndexPage = ({ location }) => (
       <Jobs />
       <Education />
       <Featured />
-      <Projects />
       <Contact />
     </StyledMainContainer>
   </Layout>
@@ -23,6 +22,6 @@ const IndexPage = ({ location }) => (
 
 IndexPage.propTypes = {
   location: PropTypes.object.isRequired,
-};
+}; 
 
 export default IndexPage;
