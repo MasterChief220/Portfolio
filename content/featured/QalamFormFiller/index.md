@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Qalam Form Filler'
+cover: './qalam-form-fillers.png'
+github: 'https://github.com/MasterChief220/qalam-form-filler'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Python
+  - Chromium Web Driver
+  - Selenium
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Python script leveraging Selenium for automated interaction with the Qalam NUST portal. It facilitates login using user credentials and navigates to specific evaluation forms, streamlining the process of accessing and managing forms. The script includes web element identification, dynamic waits, and automated actions such as button clicks and form navigation.
