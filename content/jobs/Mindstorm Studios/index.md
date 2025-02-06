@@ -1,7 +1,7 @@
 ---
 date: '2023-06-14'
 title: 'Game Developer Apprenticeship'
-company: 'Mindstorm Studios'
+company: 'Mindstorm'
 location: 'Remote'
 range: 'June 2023 - August 2023'
 url: 'https://mindstormstudios.com/'
