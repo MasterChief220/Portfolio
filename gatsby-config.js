@@ -1,7 +1,6 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: 'Portfolio',
   siteMetadata: {
     title: 'Bassam Khan',
     description:
@@ -27,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'static/logo.png',
+        icon: 'src/images/logo.png',
       },
     },
     `gatsby-plugin-offline`,
