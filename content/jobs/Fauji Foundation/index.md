@@ -1,7 +1,7 @@
 ---
 date: '2023-08-21'
 title: 'Networking Security Internee'
-company: 'Fauji Foundation'
+company: 'Fauji Group'
 location: 'Islamabad, Punjab'
 range: 'September 2023- October 2023'
 url: 'https://www.fauji.org.pk/'
