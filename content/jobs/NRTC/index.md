@@ -7,7 +7,7 @@ range: 'September - Ongoing'
 url: 'https://nrtc.com.pk/index.php'
 ---
 
-- Configured SOC Analyst tools and worked on tools like EDR, NDR, SIEM, SOAR. 
-- Deployed the solutions at NCERT and setup a network and servers for hosting the solutions
-- Analyzed Malware behaviour and signatures using Open-Source Tools
-- Did analysis on Phishing Links to investigate websites and check redirections. 
+- Configured and deployed EDR, NDR, SIEM, and SOAR solutions at NCERT, including setting up the network and servers for hosting the tools. 
+- Analyzed malware behavior and signatures using open-source tools for threat detection.
+- Investigated phishing links, examining websites and redirections for security risks.
+- Conducted penetration testing and vulnerability assessments on websites and servers to identify and remediate security weaknesses. 

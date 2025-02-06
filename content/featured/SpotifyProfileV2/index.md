@@ -1,16 +1,17 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Elastic Stack: Centralized Log Management with Elastic and Kibana'
+cover: './elastic-stack-cover.png'
+external: ''
+cta: 'https://medium.com/@bassam-khan/how-to-install-elastic-siem-along-with-auditbeat-6ff3220273a7'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - ELK Stack
+  - SIEM
+  - Cybersecurity
+  - Log Management
 ---
 
-Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
+For this project, I set up **Elastic Stack** (Elasticsearch and Kibana) to centralize logs from both **Linux** and **Windows** machines. The project involved configuring **Beats** (specifically Auditbeat and Winlogbeat) to send logs from the endpoints to Elasticsearch, enabling centralized log storage and real-time analysis.
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+With **Kibana**, I created dashboards to visualize the logs, which made it easy to monitor system activity and quickly identify issues or anomalies across the network. By the end of the project, I had a fully functional log management setup, which can be used for monitoring, troubleshooting, and security analysis.
+
