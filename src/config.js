@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://github.com/MasterChief220',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bassam_exe',
+      name: 'Medium',
+      url: 'https://medium.com/@bassam-khan',
     },
   //  {
    //   name: 'Twitter',

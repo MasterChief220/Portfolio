@@ -136,8 +136,9 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Bassam and I enjoy securing things that live on the internet. My
-              interest in cybersecurity started back in 2020 when I decided to try out TryHackMe — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              interest in cybersecurity started back in 2020 when I decided to try out TryHackMe though it was not until a few
+              years later that I started learning regularly. I am interested in Reverse-Engineering, OSINT, Web-App Penetration
+              Testing &amp; Exploit Development; to name just a few.  
             </p>
 
             <p>
