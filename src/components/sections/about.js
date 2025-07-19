@@ -147,7 +147,7 @@ const About = () => {
               <a href="https://www.fauji.org.pk/">a Conglomerate</a>,{' '}
               <a href="https://mindstormstudios.com/">a Game Development studio</a>, and{' '}
               <a href="https://luckytextilemills.biz/">a Textile and Apparel manufacturer</a>. My
-              main focus these days is configuring and setting up Defense Solutions at <a href="https://nrtc.com.pk/index.php">National Radio and Telecommunication Coporation</a> for a variety of
+              main focus these days is configuring and setting up Cyber Defense Solutions at <a href="https://nrtc.com.pk/NRTC/NRTC/">National Radio and Telecommunication Coporation</a> for a variety of
               clients.
             </p>
             {/* 
