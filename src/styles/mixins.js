@@ -75,7 +75,7 @@ const mixins = {
       width: 0;
       height: 1px;
       position: relative;
-      bottom: 0.37em;
+      bottom: 0.20em; // Change this to change the underline of bolded text
       background-color: var(--green);
       opacity: 0.5;
       @media (prefers-reduced-motion: no-preference) {
