@@ -2,6 +2,9 @@
 
 Taken from [brittanychiang.com](https://brittanychiang.com). 
 
+# Important
+
+On later versions of NVM it might cause issues so make sure to use 14.16.0 specifically.
 ## 🛠 Installation & Set Up
 
 1. Install the Gatsby CLI
@@ -15,14 +18,18 @@ Taken from [brittanychiang.com](https://brittanychiang.com).
    ```sh
    nvm install 14.16.0
    ```
+   Now select it by using
+   ```sh
+   nvm use 14.16.0
+   ```
 
-3. Install dependencies
+4. Install dependencies
 
    ```sh
    yarn
    ```
 
-4. Start the development server
+5. Start the development server
 
    ```sh
    npm start
