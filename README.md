@@ -66,3 +66,10 @@ On later versions of NVM it might cause issues so make sure to use 14.16.0 speci
 # Changing Documentation
 
 To change top section modify *hero.js* and *about.js*
+
+
+# To run it
+```
+nvm use 20
+npx wrangler pages deploy public
+```
