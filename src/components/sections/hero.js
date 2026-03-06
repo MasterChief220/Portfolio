@@ -61,23 +61,20 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Bassam Khan</h2>;
-  const three = <h3 className="big-heading">I am a Pentester and SOC Analyst</h3>;
+  const three = <h3 className="big-heading">I'm a Purple Teamer</h3>;
   const four = (
     <>
       <p>
-        I’m a cybersecurity engineer specializing in configuring secure
-        digital experiences. Currently, I’m focused on deploying secure solutions at{' '}
-        <a href="https://pkcert.gov.pk/" target="_blank" rel="noreferrer">
-          PKCERT
-        </a>
-        .
+        I focus on understanding how systems fail under adversarial pressure and
+      how they can be defended. My work spans security operations, vulnerability
+      assessment, threat intelligence, and adversary emulation.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://blog.snowdensvault.fyi/"
+      href="https://snowdensvault.fyi/"
       target="_blank"
       rel="noreferrer">
       Check out my blog!

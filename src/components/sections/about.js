@@ -125,7 +125,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'SIEM', 'EDR', 'React', 'Python', 'Node.js', 'Markdown'];
+  const skills = [
+  'Blue Teaming',
+  'Purple Teaming',
+  'Penetration Testing',
+  'Threat Intelligence',
+  'SIEM',
+  'EDR',
+  'Python',
+  'React'
+];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -143,12 +152,13 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
+              <a href="https://nrtc.com.pk/">a Defense Electronics Manufacturer </a>,{' '}
+              <a href="https://pkcert.gov.pk/">the Pakistan National CERT (PKCERT/NCERT)</a>,{' '}
               <a href="https://luckyelectricpower.com/">a Power Plant</a>,{' '}
               <a href="https://www.fauji.org.pk/">a Conglomerate</a>,{' '}
               <a href="https://mindstormstudios.com/">a Game Development studio</a>, and{' '}
               <a href="https://luckytextilemills.biz/">a Textile and Apparel manufacturer</a>. My
-              main focus these days is configuring and setting up Cyber Defense Solutions at <a href="https://nrtc.com.pk/NRTC/NRTC/">National Radio and Telecommunication Coporation</a> for a variety of
-              clients.
+             My main focus these days is security operations, vulnerability assessments, and threat intelligence at <a href="https://sky47.com.pk/">Sky47</a>, helping strengthen detection and defense capabilities across enterprise and cloud environments.
             </p>
             {/* 
             <p>
@@ -160,7 +170,7 @@ const About = () => {
               &amp; React.
             </p>
            */}
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here are a few skills I have:</p>
           </div>
 
           <ul className="skills-list">
