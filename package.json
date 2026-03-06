@@ -3,6 +3,7 @@
   "description": "Personal Website V4",
   "version": "1.0.0",
   "author": "Bassam Khan <bassam.exe@gmail.com>",
+  "packageManager": "yarn@1.22.22",
   "repository": {
     "type": "git",
     "url": "https://bassamkhan.netlify.app/"
