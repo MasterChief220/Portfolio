@@ -1,7 +1,7 @@
 ---
 date: '2025-01-01'
 title: 'PGD Computational Science and Engineering'
-company: 'NED University of Engineering and Technology'
+company: 'NED'
 location: 'Karachi, Pakistan'
 range: '2026 - Present'
 url: 'https://www.neduet.edu.pk/'
