@@ -157,7 +157,7 @@ const About = () => {
               <a href="https://luckyelectricpower.com/">a Power Plant</a>,{' '}
               <a href="https://www.fauji.org.pk/">a Conglomerate</a>,{' '}
               <a href="https://mindstormstudios.com/">a Game Development studio</a>, and{' '}
-              <a href="https://luckytextilemills.biz/">a Textile and Apparel manufacturer</a>. My
+              <a href="https://luckytextilemills.biz/">a Textile and Apparel manufacturer</a>.
              My main focus these days is security operations, vulnerability assessments, and threat intelligence at <a href="https://sky47.com.pk/">Sky47</a>, helping strengthen detection and defense capabilities across enterprise and cloud environments.
             </p>
             {/* 
